@@ -11,5 +11,3 @@ A simple and cost-effective battery overcharge protection circuit using a transi
 - Simulation file (.dsn)
 - Project report (.pdf / .docx)
 
-## Purpose
-Ideal for small-scale battery projects, student learning, and basic power electronics safety.
